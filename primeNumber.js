@@ -15,6 +15,7 @@ const checkPrime = (num) => {
 };
 
 const testBatch = [
+    -1,
     0,
     1,
     2,
