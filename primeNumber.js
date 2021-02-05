@@ -33,6 +33,6 @@ const testBatch = [
     3212,
 ];
 
-testBatch.forEach((n) => {
-    console.log(`El numero ${n} es primo: ${checkPrime(n)}`);
+testBatch.forEach((number) => {
+    console.log(`El numero ${number} es primo: ${checkPrime(number)}`);
 });
