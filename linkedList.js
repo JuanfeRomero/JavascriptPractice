@@ -32,11 +32,10 @@ function Solution() {
 
 const testBatch = [21, 12, 18, 2020, 3, 224];
 function main() {
-    console.log('entre a main');
     var T = testBatch;
     var head = null;
     var mylist = new Solution();
-    for(i = 0; i < T.length-1; i++){
+    for(i = 0; i < T.length; i++){
         var data = T[i];
         head = mylist.insert(head, data);
     }

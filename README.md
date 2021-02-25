@@ -7,3 +7,4 @@ Here I will include practice code made in JS
 - **tateti.js** : classic exportable function that defines the logic of a tictactoe game, with tests cases included, just trying to improve on the mess of chained if statements that i make when i first did this classic function. probably will try to do it even better some other time
 - **countingCharacter.js**: simple excersise where I input a String and output the number of consecutives characters present in the string.
 - **binaryArrayToNumber.js**: This code contains a function that takes an array of binary numbers and translate that concatenated number to its base 10 value;
+- **strToMorseCode.js**: This code takes a string and returns the morse code equivalent of said string.
